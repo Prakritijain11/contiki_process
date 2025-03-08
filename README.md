@@ -1,4 +1,4 @@
-The Contiki Operating System
+The project is adapted from the original Contiki Operating System. The source and information is as follows:
 ============================
 
 [![Build Status](https://travis-ci.org/contiki-os/contiki.svg?branch=master)](https://travis-ci.org/contiki-os/contiki/branches)
